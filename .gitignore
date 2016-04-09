@@ -36,6 +36,7 @@ wp-content/*
 # Ignorar todos os temas, exceto:
 # tema:
 wp-content/themes/*
+!wp-content/themes/eventlist/
 
 # Ignorar todos os plugins, exceto:
 # plugin:
